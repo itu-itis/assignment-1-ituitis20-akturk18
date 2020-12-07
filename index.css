@@ -50,7 +50,7 @@ th,td {padding: 5px;
 a:link, a:visited {
   background-color:linear-gradient(to right, #ff9900 0%, #ccffff 100%);
   color:purple;
-  border: 2px solid green;
+  border: 2px linear-gradient(to right, #ff9900 0%, #ccffff 100%);
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
