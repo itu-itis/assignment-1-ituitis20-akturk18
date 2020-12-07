@@ -39,7 +39,7 @@ table, th, td {
   border: 2px solid MidnightBlue;
   border-collapse:collapse;
   border-radius:0px;
-  background-color:green;
+  background:linear-gradient(to right, #ff9900 0%, #ccffff 100%);
 } 
 
 th,td {padding: 5px;
@@ -48,7 +48,7 @@ th,td {padding: 5px;
 }
 
 a:link, a:visited {
-  background-color:green ;
+  background-color:linear-gradient(to right, #ff9900 0%, #ccffff 100%);
   color:purple;
   border: 2px solid green;
   padding: 10px 20px;
