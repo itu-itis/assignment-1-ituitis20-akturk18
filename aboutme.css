@@ -29,11 +29,11 @@ h1 {
 div
    {
       float:center;
-      margin-top:75px;
+      margin-top:70px;
       border-radius:10px;
       background-color:#ffcc99;
       display: inline-block;
-      margin-left:25px;
+      margin-left:200px;
       margin-right:625px;
       line-height:50px;
       position:absolute;
@@ -54,7 +54,7 @@ h2 {
   text-align:center;
   display: inline-block;
   margin-top:-5px;
-  margin-left:275px;
+  margin-left:475px;
   padding:20px;
   background: linear-gradient(to right, #ff9900 0%, #ccffff 100%);
 
